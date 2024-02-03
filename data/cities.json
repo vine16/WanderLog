@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-01-26T19:21:51.742Z",
+      "notes": "",
+      "position": {
+        "lat": "38.73709051818803",
+        "lng": "-9.197792910893623"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Sharan",
+      "country": "Afghanistan",
+      "emoji": "🇦🇫",
+      "date": "2024-01-26T19:30:49.523Z",
+      "notes": "",
+      "position": {
+        "lat": "33.285034354934254",
+        "lng": "68.79612627190164"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Sharan",
+      "country": "Afghanistan",
+      "emoji": "🇦🇫",
+      "date": "2024-01-26T19:30:49.523Z",
+      "notes": "",
+      "position": {
+        "lat": "33.285034354934254",
+        "lng": "68.79612627190164"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-28T19:19:08.336Z",
+      "notes": "",
+      "position": {
+        "lat": "28.525873904794576",
+        "lng": "77.05516043458528"
+      },
+      "id": 98443202
+    }
+  ]
+}
